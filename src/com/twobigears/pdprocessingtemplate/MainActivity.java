@@ -124,7 +124,7 @@ public class MainActivity extends PApplet {
 	//setup Processing stuff
 	
 	public void setup(){
-		frameRate(30);
+		frameRate(60);
 		background(bgCol);
 	}
 	
